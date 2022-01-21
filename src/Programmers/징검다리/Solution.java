@@ -1,7 +1,10 @@
 /**
+ * 징검다리
  * https://programmers.co.kr/learn/courses/30/lessons/43236
+ *
+ * 문제 해설: https://entrydeveloper.tistory.com/551?category=1255793
  */
-package Programmers.Level4;
+package Programmers.징검다리;
 
 import java.util.*;
 
