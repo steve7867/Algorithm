@@ -1,0 +1,69 @@
+/**
+ * 골드바흐의 추측
+ * https://www.acmicpc.net/problem/9020
+ */
+package Baekjoon.Math;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+ 
+public class Main_9020 {
+    private static class Pair {
+        int x;
+        int y;
+ 
+        public Pair(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
+    }
+ 
+    public static void main(String[] args) throws IOException {
+        boolean[] isPrime = sieve();
+ 
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+ 
+        int tc = Integer.parseInt(br.readLine());
+        while (tc-- > 0) {
+            int n = Integer.parseInt(br.readLine());
+ 
+            Pair pair = getGoldBachPartition(n, isPrime);
+            sb.append(pair.x)
+                    .append(' ')
+                    .append(pair.y)
+                    .append('\n');
+        }
+ 
+        System.out.println(sb);
+    }
+ 
+    private static Pair getGoldBachPartition(int n, boolean[] isPrime) {
+        for (int a = n / 2; a >= 2; a--) {
+            int b = n - a;
+            if (isPrime[a] && isPrime[b]) {
+                return new Pair(a, b);
+            }
+        }
+ 
+        return null;
+    }
+ 
+    private static boolean[] sieve() {
+        boolean[] isPrime = new boolean[10001];
+        Arrays.fill(isPrime, true);
+        isPrime[1] = false;
+ 
+        for (int i = 2; i * i <= 10000; i++) {
+            if (!isPrime[i])
+                continue;
+ 
+            for (int j = i * i; j <= 10000; j+=i)
+                isPrime[j] = false;
+        }
+ 
+        return isPrime;
+    }
+}
