@@ -23,3 +23,4 @@ public class Main_11478 {
 
         System.out.println(set.size());
     }
+}
