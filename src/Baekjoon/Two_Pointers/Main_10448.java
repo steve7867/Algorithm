@@ -1,7 +1,7 @@
 /**
  * 유레카 이론
  * https://www.acmicpc.net/problem/10448
- * 문제 해설: https://entrydeveloper.tistory.com/236
+ * 문제 해설: https://entrydeveloper.tistory.com/235
  */
 package Baekjoon.Two_Pointers;
 
