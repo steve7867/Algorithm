@@ -1,6 +1,6 @@
 .idea
 out/
-Main.java
+src/Main.java
+src/Solution.java
 Algorithm.iml
-Solution.java
 test/
