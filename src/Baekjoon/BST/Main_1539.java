@@ -1,6 +1,7 @@
 /**
  * 이진 검색 트리
  * https://www.acmicpc.net/problem/1539
+ * 문제 해설: https://entrydeveloper.tistory.com/491
  */
 package Baekjoon.BST;
 
