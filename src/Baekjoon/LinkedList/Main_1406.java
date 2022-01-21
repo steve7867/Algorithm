@@ -1,7 +1,7 @@
 /**
  * 에디터
  * https://www.acmicpc.net/problem/1406
- * 문제 해설: https://entrydeveloper.tistory.com/195?category=1185243
+ * 문제 해설: https://entrydeveloper.tistory.com/195
  */
 package Baekjoon.LinkedList;
 

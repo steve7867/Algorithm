@@ -1,7 +1,7 @@
 /**
  * 키로거
  * https://www.acmicpc.net/problem/5397
- * 문제 해설: https://entrydeveloper.tistory.com/196?category=1185243
+ * 문제 해설: https://entrydeveloper.tistory.com/196
  */
 package Baekjoon.LinkedList;
 
