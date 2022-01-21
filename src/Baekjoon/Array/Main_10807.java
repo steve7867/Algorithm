@@ -1,4 +1,8 @@
-//https://www.acmicpc.net/problem/10807
+/**
+ * 개수 세기
+ * https://www.acmicpc.net/problem/10807
+ */
+
 package Baekjoon.Array;
 
 import java.io.*;

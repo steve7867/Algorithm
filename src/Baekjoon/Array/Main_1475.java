@@ -1,4 +1,7 @@
-//https://www.acmicpc.net/problem/1475
+/**
+ * 방 번호
+ * https://www.acmicpc.net/problem/1475
+ */
 package Baekjoon.Array;
 
 import java.io.BufferedReader;

@@ -1,4 +1,8 @@
-//https://www.acmicpc.net/problem/13300
+/**
+ * 방 배정
+ * https://www.acmicpc.net/problem/13300
+ */
+
 package Baekjoon.Array;
 
 import java.io.*;

@@ -1,4 +1,8 @@
-//https://www.acmicpc.net/problem/11328
+/**
+ * Strfry
+ * https://www.acmicpc.net/problem/11328
+ */
+
 package Baekjoon.Array;
 
 import java.io.*;

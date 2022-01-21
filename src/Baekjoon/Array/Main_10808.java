@@ -1,4 +1,8 @@
-//https://www.acmicpc.net/problem/10808
+/**
+ *알파벳 개수
+ *https://www.acmicpc.net/problem/10808
+ */
+
 package Baekjoon.Array;
 
 import java.io.BufferedReader;
