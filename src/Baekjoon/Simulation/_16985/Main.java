@@ -12,7 +12,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
  
-public class Main_16985 {
+public class Main {
     private static int[][][] board = new int[5][5][5];
     private static int ans = -1;
     private static Queue<Tuple> q = new LinkedList<>();

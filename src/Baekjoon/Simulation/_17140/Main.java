@@ -2,14 +2,14 @@
  * 이차원 배열과 연산
  * https://www.acmicpc.net/problem/17140
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._17140;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
  
-public class Main_17140 {
+public class Main {
     private static int[][] arr = new int[100][100];
     private static int x = 3, y = 3;
     private static int r, c, k;

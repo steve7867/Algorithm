@@ -2,14 +2,14 @@
  * 마법사 상어와 파이어볼
  * https://www.acmicpc.net/problem/20056
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._20056;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
  
-public class Main_20056 {
+public class Main {
  
     private static class Fireball {
         int m;

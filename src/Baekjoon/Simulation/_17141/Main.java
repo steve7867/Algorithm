@@ -7,7 +7,7 @@ package Baekjoon.Simulation._17141;
 import java.io.*;
 import java.util.*;
  
-public class Main_17141 {
+public class Main {
     private static int N;
     private static int M;
     private static int[][] board;

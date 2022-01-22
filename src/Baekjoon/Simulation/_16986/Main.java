@@ -2,14 +2,14 @@
  * 인싸들의 가위바위보
  * https://www.acmicpc.net/problem/16986
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._16986;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
  
-public class Main_16986 {
+public class Main {
  
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static int N, K;

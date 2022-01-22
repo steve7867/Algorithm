@@ -2,14 +2,14 @@
  * 게리맨더링 2
  * https://www.acmicpc.net/problem/17779
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._17779;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
  
-public class Main_17779 {
+public class Main {
  
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static int N;

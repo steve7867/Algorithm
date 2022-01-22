@@ -2,14 +2,14 @@
  * 로봇 청소기
  * https://www.acmicpc.net/problem/4991
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._4991;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
  
-public class Main_4991 {
+public class Main {
     static class Pair {
         int x;
         int y;

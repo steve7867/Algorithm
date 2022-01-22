@@ -4,14 +4,14 @@
  *
  * 문제 해설: https://entrydeveloper.tistory.com/438
  * 다양한 풀이가 있으니 꼭 확인해 볼 것것 */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._14719;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_14719 {
+public class Main {
     private static int w, h;
     private static int[] height;
     public static void main(String[] args) throws IOException {

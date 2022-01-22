@@ -7,7 +7,7 @@ package Baekjoon.Simulation._17142;
 import java.io.*;
 import java.util.*;
  
-public class Main_17142 {
+public class Main {
     private static int n, m;
     private static int[][] board;
     private static List<Pair> virus = new ArrayList<>();

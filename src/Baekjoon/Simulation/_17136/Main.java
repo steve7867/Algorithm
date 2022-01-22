@@ -2,7 +2,7 @@
  * 색종이 붙이기
  * https://www.acmicpc.net/problem/17136
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._17136;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
  
-public class Main_17136 {
+public class Main {
  
     private static int ans = Integer.MAX_VALUE;
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

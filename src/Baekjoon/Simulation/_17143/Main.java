@@ -2,14 +2,14 @@
  * 낚시왕
  * https://www.acmicpc.net/problem/17143
  */
-package Baekjoon.Simulation;
+package Baekjoon.Simulation._17143;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
  
-public class Main_17143 {
+public class Main {
     static class Shark {
         static int[] dx = {0, -1, 1, 0, 0};
         static int[] dy = {0, 0, 0, 1, -1};
