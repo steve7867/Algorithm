@@ -5,7 +5,7 @@
  * String의 compareTo(String s) 메소드는 길이를 고려하지 않는다.
  * "z".compareTo("abc")는 25이다.
  */
- package SWEA;
+ package SWEA._7701.MergeSort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution_7701 {
+class Solution {
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static final String[] temp = new String[20000];
 
