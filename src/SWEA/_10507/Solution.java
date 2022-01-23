@@ -1,3 +1,7 @@
+/**
+ * https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS&categoryId=AXNQOb3avD0DFAXS&categoryType=CODE&problemTitle=%EC%98%81%EC%96%B4+%EA%B3%B5%EB%B6%80&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+ * 문제 해설: https://entrydeveloper.tistory.com/568?category=1255793
+ */
 package SWEA._10507;
 
 import java.io.BufferedReader;
