@@ -1,3 +1,9 @@
+/**
+ * 가장 큰 정사각형
+ * https://www.acmicpc.net/problem/1915
+ *
+ * 문제 해설: https://entrydeveloper.tistory.com/490
+ */
 package Baekjoon.DP._1915;
 
 import java.io.BufferedReader;
