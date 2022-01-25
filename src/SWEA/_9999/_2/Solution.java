@@ -1,6 +1,7 @@
 /**
  * 9999. 광고 시간 정하기
  * https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvPBC6aqUDFAXR&categoryId=AXIvPBC6aqUDFAXR&categoryType=CODE&problemTitle=9999&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
+ * 문제 해설: https://entrydeveloper.tistory.com/569
  */
 package SWEA._9999._2;
 
