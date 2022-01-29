@@ -1,9 +1,10 @@
-package Baekjoon.Graph._5214; /**
+/**
  * 환승
  * https://www.acmicpc.net/problem/5214
  *
  * 문제 해설: https://entrydeveloper.tistory.com/574
  */
+package Baekjoon.Graph._5214;
 
 import java.io.BufferedReader;
 import java.io.IOException;
