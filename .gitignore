@@ -2,5 +2,6 @@
 out/
 src/Main.java
 src/Solution.java
+src/UserSolution.java
 Algorithm.iml
 test/
