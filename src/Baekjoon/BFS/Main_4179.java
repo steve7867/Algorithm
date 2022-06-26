@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_1039 {
+public class Main_4179 {
 
     private static int r, c;
     private static char[][] board;
